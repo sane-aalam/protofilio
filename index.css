@@ -133,7 +133,7 @@ header {
 }
 
 .home {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     display: flex;
     padding-top: 1em;
@@ -282,7 +282,7 @@ header {
 }
 
 .about {
-    width: 100vw;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -304,7 +304,7 @@ header {
 }
 
 .projects {
-    width: 100vw;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -389,7 +389,7 @@ header {
 }
 
 .coding {
-    width: 100vw;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -427,7 +427,7 @@ header {
 }
 
 .contact {
-    width: 100vw;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -438,7 +438,7 @@ header {
     display: flex;
     flex-direction: column;
     column-gap: 3em;
-    width: 100vw;
+    width: 100%;
     margin: auto;
     align-items: center;
 }
@@ -484,7 +484,7 @@ header {
 }
 
 .footer {
-    width: 100vw;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
